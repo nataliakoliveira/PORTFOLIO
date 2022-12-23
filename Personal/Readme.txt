@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Portfolio de Natália Oliveira
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+https://portfolio-nataliakoliveira.vercel.app/
